@@ -1,18 +1,14 @@
 {
-  "name": "fda-docs",
+  "name": "@lpires-ccs/fda-docs",
   "version": "0.1.0",
-  "description": "Repository containing some of the FDA documents, in order to allow self-hosting.",
+  "description": "Contains FDA/regulatory documents used by QbDVision",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "FDA",
-    "regulation",
-    "QBDVision",
-    "CherryCircle",
-    "Software"
+    "FDA"
   ],
-  "author": "Leonardo Pires",
-  "license": "ISC"
+  "author": "CherryCircle Software",
+  "license": "SEE LICENSE IN LICENSE.txt"
 }
