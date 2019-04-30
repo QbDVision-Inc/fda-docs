@@ -1,8 +1,8 @@
 {
-  "name": "@lpires-ccs/fda-docs",
-  "version": "0.1.0",
+  "name": "@cherrycircle/fda-docs",
+  "version": "0.1.1",
   "description": "Contains FDA/regulatory documents used by QbDVision",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
